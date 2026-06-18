@@ -1,0 +1,10 @@
+﻿{
+    "id":  "gemini-curator",
+    "name":  "Gemini Curator",
+    "version":  "1.0.0",
+    "minAppVersion":  "0.15.0",
+    "description":  "Randomly selects a note from Atlas, searches the web using Gemini Grounding for recent long-form content, translates/summarizes in Korean, and saves rich curations.",
+    "author":  "ej-2987",
+    "authorUrl":  "https://github.com/ej-2987/obsidian-gemini-curator",
+    "isDesktopOnly":  false
+}
